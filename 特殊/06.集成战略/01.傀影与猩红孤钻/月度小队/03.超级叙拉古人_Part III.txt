@@ -1,0 +1,25 @@
+03.超级叙拉古人_Part III
+
+"char_356_broca": 你居然在看书？
+"char_349_chiave": 怎么，小爷我可是......
+"char_346_aosta": 这是什么......食谱？
+"char_346_aosta": 你要学做菜？
+"char_349_chiave": 最近突然感兴趣了，这本菜谱很有趣，想试试。
+"char_346_aosta": 《创新泰拉美食第二百期》。
+"char_346_aosta": 这听起来就不靠谱啊。
+"char_349_chiave": 你看这道创新炎国菜，“麻婆草莓”。
+"char_356_broca": 这个呆瓜......
+"char_346_aosta": 你可千万别让炎国来的干员看到这本书。
+"char_349_chiave": 决定了，就先学这道菜吧。
+"char_349_chiave": 汐斯塔风情水果披萨。
+"char_356_broca": ......
+"char_346_aosta": ......
+"char_349_chiave": ......
+"char_346_aosta": 布洛卡，找根绳子，把贾维捆起来。
+"char_356_broca": 好。
+"char_356_broca": 别乱动，贾维。
+"char_349_chiave": 呜啊，你们干什么？！
+"char_356_broca": ......然后呢？
+"char_346_aosta": 找个拉特兰教堂，把他丢进去，让拉特兰修士狠狠揍他。
+"char_356_broca": 好。
+"char_349_chiave": 为什么啊！

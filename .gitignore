@@ -1,0 +1,14 @@
+# 本地 AI 风格化素材，不上传
+ai风格化/
+
+# 干员原图 PNG，不上传
+**/原图/
+
+# macOS
+.DS_Store
+
+# 本地草稿
+.skland-research/
+
+# 未完成下载
+*.download-part
